@@ -1,3 +1,9 @@
-# ExcelProject---NYSE
+NYSE - New York Stock Change Project
 
-In this project, I went through the process of calculating summary statistics, drawing any inference from the statistics, calculating business metrics, and using models to forecast future growth prospects for the companies. I added a drop-down list to pull historical fundamentals data to create the P&L Statement and a financial model that forecasts out the Gross Profit and business metrics for two more years using three scenarios (Best case, Weak case, and Base case), based on historical data.
+In this project, I conducted a thorough analysis that encompassed several key elements aimed at deepening the understanding of the financial health and growth potential of the companies involved. My main emphasis was on calculating summary statistics, which laid the groundwork for extracting valuable insights. These insights were vital for identifying trends and patterns that could guide strategic decision-making.
+
+To enhance the analysis further, I identified essential business metrics necessary for assessing performance and shaping future initiatives. By establishing these metrics, I was able to provide a clearer view of the companies' operational efficiency and overall financial stability.
+
+In addition to analyzing historical data, I utilized advanced modeling techniques to forecast future growth opportunities for the companies. This proactive approach enabled me to simulate various scenarios and evaluate their potential effects on the business. Specifically, I created a financial model that extends forecasts for Gross Profit and other key business metrics over an additional two years. This model was structured to accommodate three distinct scenarios: Best Case, Weak Case, and Base Case. Each scenario was meticulously developed based on historical data, ensuring that the projections were realistic and reflective of possible market conditions.
+
+To enhance user interaction and improve data accessibility, I integrated a drop-down menu feature. This innovative tool allowed users to easily access historical fundamental data, streamlining the process of generating the Profit and Loss Statement. The addition of this feature not only enriched the user experience but also facilitated a more dynamic analysis, enabling users to swiftly switch between different data sets and scenarios.
